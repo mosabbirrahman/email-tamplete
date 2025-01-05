@@ -1,17 +1,27 @@
 body{
     font-family:"Roboto", serif;
-    background-color: #E5D9F2;
+   
   
   
 }
 .header{
-    background-image: url('4.webp');
-    
-    background-position: center;
+    background-image: url('5673045.webp');
+    background-size: 700px 500px;
+    background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+     /* background-size: cover;  */
     padding: 30px;
+   
+    background-color: rgba(0, 102, 255, 0.815);
+   
 }
-.head{
+
+
+#btn{
+    background-color: #f66d0d;
+    color: white;
+}
+.banner{
     color: black;
+   background-color: white;
 }
