@@ -5,9 +5,13 @@ body{
   
 }
 .header{
-    background-image: url('creative-geometric-shopping-bag-template_616632-4725.avif');
+    background-image: url('4.webp');
+    
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 30px;
+}
+.head{
+    color: #A294F9;
 }
